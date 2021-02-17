@@ -9,7 +9,8 @@ Our primary focus was creating a user-friendly front end website inorder to enha
 <h2> Steps to run the website</h2>
 
 1. Clone the repository
-2. Open index.html files
+2. <pre>git clone https://github.com/your_username_/Project-Name.git</pre>
+3. Open index.html files
 
 <h2> Tools used: </h2>
 
